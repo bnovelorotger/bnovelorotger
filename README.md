@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Me dedico al **análisis de datos**, la **cien
 
 - **[Análisis de Salarios en Data Science](https://github.com/bnovelorotger/analisis_salarios_data_science_20-24)**: Un análisis de salarios en el campo de la ciencia de datos, basado en datos de diferentes fuentes para explorar tendencias y comparar oportunidades laborales.
   
-- **[Data Quality Hell](https://github.com/bnovelorotger/data-quality-hell)**: Proyecto en progreso donde me enfoco en la limpieza y transformación de datos reales de empleo, abordando inconsistencias, valores nulos y otros problemas típicos en el mercado laboral.
+- **[Data Quality Hell Project](https://github.com/bnovelorotger/data_quality_hell_project)**: Proyecto en progreso donde me enfoco en la limpieza y transformación de datos reales de empleo, abordando inconsistencias, valores nulos y otros problemas típicos en el mercado laboral.
 
 ## 💻 Habilidades y Tecnologías
 
