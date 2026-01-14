@@ -1,29 +1,46 @@
-# ¡Hola, soy Bernardo! 👋
+# Hi, I'm Bernardo! 👋
 
-Bienvenido a mi perfil de GitHub. Me dedico al **análisis de datos**, la **ciencia de datos** y la **inteligencia artificial**. En mi perfil, encontrarás proyectos donde estoy aprendiendo, experimentando y resolviendo problemas reales con datos.
+Welcome to my GitHub profile! I'm a passionate **Data & Analytics professional** with a unique ability to bridge **business needs** with **technological solutions**. My background combines strong analytical skills with a deep understanding of **business processes**, aiming to drive **data-driven decision-making** and **AI integration** across industries.
 
-## 📌 Repositorios Destacados
+With a background in **biology** and a specialized focus in **predictive analytics**, I leverage data to uncover insights that empower businesses to optimize their processes. I believe that data isn't just numbers—it's a story waiting to be told.
 
-- **[Análisis de Salarios en Data Science](https://github.com/bnovelorotger/analisis_salarios_data_science_20-24)**: Un análisis de salarios en el campo de la ciencia de datos, basado en datos de diferentes fuentes para explorar tendencias y comparar oportunidades laborales.
+## 📌 Featured Repositories
+
+- **[Data Science Salary Analysis](https://github.com/bnovelorotger/analisis_salarios_data_science_20-24)**: This project analyzes trends in **data science salaries**, comparing different sources and regions, and uncovering valuable insights for job seekers and companies alike.
   
-- **[Data Quality Hell Project](https://github.com/bnovelorotger/data_quality_hell_project)**: Proyecto en progreso donde me enfoco en la limpieza y transformación de datos reales de empleo, abordando inconsistencias, valores nulos y otros problemas típicos en el mercado laboral.
+- **[Data Quality Hell](https://github.com/bnovelorotger/data_quality_hell_project)**: Currently in progress, this project tackles the complexities of **cleaning real-world labor market data** (jobs, salaries, companies). I focus on addressing inconsistencies, null values, and other data issues, making it a reliable dataset for analysis and business applications.
 
-## 💻 Habilidades y Tecnologías
+## 🚀 Skills and Technologies
 
-- **Lenguajes**: Python, SQL
-- **Herramientas**: Pandas, Matplotlib, Seaborn, Jupyter Notebooks
-- **Áreas de interés**: Data Science, Machine Learning, Data Cleaning
+Here are the tools and languages I use to bring data to life:
 
-## 🌱 En progreso
+### **🔧 Programming Languages**
+- **Python**: My go-to language for everything from data wrangling to machine learning and AI integration. I’ve used **XGBoost** for predictive models and **TensorFlow** for deep learning experiments.
+- **SQL**: Essential for querying and analyzing large datasets, especially in enterprise environments like SAP.
 
-Actualmente estoy trabajando en el proyecto **[Data Quality Hell](https://github.com/bnovelorotger/data-quality-hell)**, donde me enfoco en limpiar datos reales del mercado laboral (empleos, salarios, empresas) obtenidos mediante scraping, transformándolos en un dataset confiable y usable para análisis y negocios.
+### **📊 Data Analysis and Visualization**
+- **Pandas**: My trusted library for data manipulation and cleaning.
+- **Matplotlib & Seaborn**: Visualizations that tell a clear and compelling story with data.
 
-## 📈 Mis Contribuciones
+### **🤖 Machine Learning & AI**
+- **Scikit-Learn**: Building predictive models to forecast trends and make data-driven decisions.
+- **XGBoost**: Used in projects to build powerful machine learning models, especially for classification and regression tasks.
 
-![Mis Contribuciones](https://github-readme-stats.vercel.app/api?username=bnovelorotger&show_icons=true)
+### **🛠 Tools**
+- **Power BI**: Building interactive dashboards and KPIs for data-driven business insights.
+- **Jupyter Notebooks**: My favorite environment for coding, analyzing, and sharing insights with the community.
 
-## 📬 Contáctame
+### **🌱 Currently Learning**
+- **Deep Learning**: Exploring the potential of **neural networks** and **reinforcement learning**.
+- **Advanced SQL**: Improving my ability to handle large-scale database operations and complex queries.
+
+## 🌱 In Progress
+
+I am currently working on **[Data Quality Hell](https://github.com/bnovelorotger/data_quality_hell_project)**, where I am cleaning real labor market data and transforming it into a reliable, usable dataset for businesses. This project showcases the critical role of **data quality** in achieving impactful business results.
+
+## 📬 Contact Me
 
 - **LinkedIn**: [Bernardo Novelo](https://www.linkedin.com/in/bernardo-novelo-rotger)
 
-¡No dudes en explorar mis proyectos y seguirme para más actualizaciones! 👨‍💻
+Feel free to explore my projects and follow me for more updates! 👨‍💻
+
