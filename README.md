@@ -13,6 +13,12 @@ Most of my day-to-day work in Fabric and Power BI is proprietary. The public rep
 - SQL and Python workflows for ingestion, transformation, and analysis
 - AI-assisted documentation, prototyping, and workflow design
 
+## 2026 Focus
+
+- Building end-to-end analytics solutions with Microsoft Fabric, Power BI, SQL, and Python
+- Turning public repositories into cleaner portfolio pieces with stronger documentation and clearer technical positioning
+- Applying AI-assisted workflows to documentation, prototyping, analysis, and delivery
+
 ## Selected Projects
 
 ### [Data Quality Hell](https://github.com/bnovelorotger/data_quality_hell_project)
