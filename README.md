@@ -21,10 +21,6 @@ Most of my day-to-day work in Fabric and Power BI is proprietary. The public rep
 - Turning public repositories into cleaner portfolio pieces with stronger documentation and clearer technical positioning
 - Applying AI-assisted workflows to documentation, prototyping, analysis, and delivery
 
-## GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bnovelorotger&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,contribs&rank_icon=percentile&theme=transparent)
-
 ## Selected Projects
 
 ### [Data Quality Hell](https://github.com/bnovelorotger/data_quality_hell_project)
