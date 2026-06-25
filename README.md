@@ -2,6 +2,8 @@
 
 Analytics Engineer focused on data quality, BI, semantic modeling, and applied AI.
 
+Core Stack: Microsoft Fabric, Power BI, SQL, Python, pandas, scikit-learn, PySpark, GitHub, LLM-assisted workflows
+
 I build data solutions that turn messy operational inputs into reliable models, pipelines, and decision-ready reporting. My background sits between analytics, business process understanding, and implementation, with recent work in Microsoft Fabric, Power BI, SQL, Python, and AI-assisted workflows.
 
 Most of my day-to-day work in Fabric and Power BI is proprietary. The public repositories here are selected to show how I think about data quality, analytics engineering, automation, and applied analysis.
@@ -18,6 +20,10 @@ Most of my day-to-day work in Fabric and Power BI is proprietary. The public rep
 - Building end-to-end analytics solutions with Microsoft Fabric, Power BI, SQL, and Python
 - Turning public repositories into cleaner portfolio pieces with stronger documentation and clearer technical positioning
 - Applying AI-assisted workflows to documentation, prototyping, analysis, and delivery
+
+## GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bnovelorotger&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,contribs&rank_icon=percentile&theme=transparent)
 
 ## Selected Projects
 
