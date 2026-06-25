@@ -1,47 +1,41 @@
-# Hi, I'm Bernardo 👋
+# Bernardo Novelo Rotger
 
-I work in **Data & Analytics**, with a strong focus on turning
-**messy, real-world data into information people can actually trust**.
+Analytics Engineer focused on data quality, BI, semantic modeling, and applied AI.
 
-My background combines analytical skills with a solid understanding of
-**business processes**, which means I care not only about *what* the data says,
-but whether it is reliable enough to support decisions, analytics or AI.
+I build data solutions that turn messy operational inputs into reliable models, pipelines, and decision-ready reporting. My background sits between analytics, business process understanding, and implementation, with recent work in Microsoft Fabric, Power BI, SQL, Python, and AI-assisted workflows.
 
-I believe data is more than numbers —  
-it’s a system of definitions, assumptions and trade-offs that must be made explicit.
+Most of my day-to-day work in Fabric and Power BI is proprietary. The public repositories here are selected to show how I think about data quality, analytics engineering, automation, and applied analysis.
 
----
+## What I work on
 
-## 🔎 What I focus on
+- Analytics engineering and BI with a strong focus on trust in data
+- Data quality, validation, deduplication, and cross-source consistency
+- SQL and Python workflows for ingestion, transformation, and analysis
+- AI-assisted documentation, prototyping, and workflow design
 
-- Data quality as a **foundational layer**, not a cleanup task  
-- Working with imperfect, inconsistent and evolving data sources  
-- Bridging business logic with technical implementation  
-- Making data limitations visible instead of hiding them downstream  
+## Selected Projects
 
-I’m less interested in hype and more in:
-**clarity, consistency and trust in data**.
+### [Data Quality Hell](https://github.com/bnovelorotger/data_quality_hell_project)
+End-to-end data quality project built on nearly 40k job ads across 19 countries. Focused on schema inconsistency, semantic overlap, deduplication, and producing analysis-ready datasets instead of noisy raw exports.
 
----
+### [futbolautomate](https://github.com/bnovelorotger/futbolautomate)
+Editorial automation and football scraping workflow built with Python. Covers ingestion, persistence, snapshots, scoring, exporting, and publishing with a more product-oriented approach to automation.
 
-## 📌 Featured Projects
+### [Data Science Salary Analysis](https://github.com/bnovelorotger/analisis_salarios_data_science_20-24)
+Salary analytics pipeline combining Python, statistics, enrichment layers, and BI thinking to turn market salary data into practical insights.
 
-- **[Data Quality Hell](https://github.com/bnovelorotger/data_quality_hell_project)**  
-  A real-world data quality project focused on common production problems:
-  inconsistent schemas, ambiguous roles, missing values and unclear definitions.
-  
-  The goal is not to create a “perfect” dataset,
-  but to build **reliable foundations before analytics or AI**.
+### [Student Performance Prediction](https://github.com/bnovelorotger/student_performance_prediction_project)
+Classification, regression, and exploratory analysis project focused on academic performance, modeling decisions, and result interpretation.
 
-- **[Data Science Salary Analysis](https://github.com/bnovelorotger/analisis_salarios_data_science_20-24)**  
-  An analysis of data science salary trends across sources and regions,
-  focused on extracting insights that are actually useful.
+## Current Profile
 
----
+- Based in Barcelona
+- Working across Analytics Engineering, BI, and applied AI
+- Interested in roles involving Microsoft Fabric, Power BI, SQL, Python, data modeling, and data quality
 
-## 📬 Contact
+## Contact
 
-- **LinkedIn**: [Bernardo Novelo](https://www.linkedin.com/in/bernardo-novelo-rotger)
+- LinkedIn: [bernardo-novelo-rotger](https://www.linkedin.com/in/bernardo-novelo-rotger)
+- GitHub: [bnovelorotger](https://github.com/bnovelorotger)
 
-If you care about building data systems that hold up in practice,
-we’re probably aligned.
+If you are hiring for data work where reliability matters as much as insight, we should probably talk.
